@@ -3,6 +3,7 @@ public class Gitignore {
         System.out.println("gitignore sdeneme");
         System.out.println("gitignore sdeneme  branch");
         System.out.println("gitignore sdeneme abc branch");
-        System.out.println("gitignoreghdhghgf sdeneme abc branch");
+        System.out.println("gitignore sdeneme master");
+
     }
 }
